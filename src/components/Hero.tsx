@@ -22,7 +22,7 @@ const Hero = () => {
       {/* Tagline & Socials */}
       <div className="mt-10 flex flex-col md:flex-row md:items-center md:justify-center gap-6 text-center px-2">
         <p className="text-base sm:text-lg md:text-2xl font-medium max-w-xs sm:max-w-sm md:max-w-lg">
-          Lead the change, don't let the change lead you.
+          Lead the change, don&apos;t let the change lead you.
         </p>
 
         <div className="flex justify-center gap-6">
